@@ -16,6 +16,7 @@ Learn more about me at [mariofelesdossantosjunior](https://mariofelesdossantosju
 * RxAndroid, Coroutines
 * Retrofit - OKHttp...
 * JetPack - Arquiteture Components
+* Designer System, Material Designer 
 * TDD - Espresso, Mockito, Appium
 * Scrum, XP, Agile
 * Backend - Spring Boot, Rest APIs
