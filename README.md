@@ -1,4 +1,5 @@
-# Hi hi.gif, I'm Mario Feles dos Santos Junior
+<h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Mario Feles dos Santos Junior</h1>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=JLAJ5&color=yellow" alt="Profile views" /> </p>
 
 I'm an **Android developer** with **Kotlin** and **Dart** and **Java**.
 
