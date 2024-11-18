@@ -12,9 +12,9 @@ I'm an **Android developer** with **Kotlin** and **Dart** and **Java**.
 Learn more about me at [mariofelesdossantosjunior](https://mariofelesdossantosjunior.github.io/) :robot:
 
 # Work
-* Andoid (+Kotlin, -Java, +Dart)
-* Flutter
+* Andoid (+Kotlin, -Java)
 * Clean Architecture
+* MVVM, MVP, MVI
 * Proguard, DexGuard
 * Inject dependency
 * RxAndroid, Coroutines
@@ -24,8 +24,7 @@ Learn more about me at [mariofelesdossantosjunior](https://mariofelesdossantosju
 * TDD - Espresso, Mockito, Appium
 * Scrum, XP, Agile
 * Backend - Spring Boot, Rest APIs
-* CI/CD - CodeMagic, Bitrise, CircleCI
-* Docker
+* CI/CD - CodeMagic, Bitrise, CircleCI, GithubActions, Harness
 * Firebase
 * GraphQL
 * Hasura
