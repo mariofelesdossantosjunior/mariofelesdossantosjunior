@@ -13,8 +13,10 @@ Learn more about me at [mariofelesdossantosjunior](https://mariofelesdossantosju
 
 # Work
 * Andoid (+Kotlin, -Java)
+* Entusiasta KMP
 * Clean Architecture
 * MVVM, MVP, MVI
+* Jetpack Compose
 * Proguard, DexGuard
 * Inject dependency
 * RxAndroid, Coroutines
