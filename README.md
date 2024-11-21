@@ -13,7 +13,7 @@ Learn more about me at [mariofelesdossantosjunior](https://mariofelesdossantosju
 
 # Work
 * Andoid (+Kotlin, -Java)
-* Entusiasta KMP
+* Enthusiast KMP
 * Clean Architecture
 * MVVM, MVP, MVI
 * Jetpack Compose
