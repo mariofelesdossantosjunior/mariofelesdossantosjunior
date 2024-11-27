@@ -1,6 +1,6 @@
 <h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Mario Feles dos Santos Junior</h1>
 
-[<img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/mario-feles-dos-santos-jun-89622b79/?originalSubdomain=br)
+[<img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/mario-feles/)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=JLAJ5&color=yellow" alt="Profile views" /> </p>
 
